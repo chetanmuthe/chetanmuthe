@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan Muthe 
 - 👀 I’m interested in programming
 - 🌱 I have done B.Sc(IT)
-- 💞️ I’m looking to collaborate on devlopment
+- 💞️ I’m looking to collaborate with development
 - 📫 You can reach me on 7045283432
 
 <!---
