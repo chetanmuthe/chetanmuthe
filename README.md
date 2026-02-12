@@ -3,6 +3,7 @@
 - 🌱 I have done B.Sc(IT)
 - 💞️ I’m looking to collaborate with development
 - 📫 You can reach me on 7045283432
+- full stack .net developer
 
 <!---
 chetanmuthe/chetanmuthe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
